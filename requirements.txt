@@ -3,3 +3,4 @@ vtki>=0.17.5
 PVGeo>=1.2.2
 xlrd
 matplotlib
+sklearn
