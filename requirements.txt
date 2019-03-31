@@ -1,6 +1,6 @@
-PVGeo>=1.2.0
 vtk>=8.1.0
+vtki>=0.17.5
+PVGeo>=1.2.2
 xlrd>=1.1.0
 matplotlib>=2.2.2
-vtki>=0.16.1
-discretize>=0.3.8
+discretize>=0.3.10
