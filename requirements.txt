@@ -1,6 +1,8 @@
 vtk>=8.1.0
 vtki>=0.17.5
 PVGeo>=1.2.2
+omfvtk
 xlrd
 matplotlib
 sklearn
+pyshp
